@@ -1,7 +1,6 @@
 import streamlit as st
 import datetime
 import requests
-#import numpy as np
 
 from geopy.geocoders import Nominatim
 
